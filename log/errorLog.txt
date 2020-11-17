@@ -1,0 +1,815 @@
+[13-Nov-2020 00:47:28 Europe/Moscow] Запись в логPDOException: SQLSTATE[HY000] [2002] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение.
+ in W:\web\2020\Front\A25\send.php:6
+Stack trace:
+#0 W:\web\2020\Front\A25\send.php(6): PDO->__construct('mysql:host=loca...', 'root', 'mysql')
+#1 {main}
+[13-Nov-2020 00:47:28 Europe/Moscow] PHP Warning:  A non-numeric value encountered in W:\web\2020\Front\A25\send.php on line 46
+[13-Nov-2020 00:47:28 Europe/Moscow] PHP Stack trace:
+[13-Nov-2020 00:47:28 Europe/Moscow] PHP   1. {main}() W:\web\2020\Front\A25\send.php:0
+[13-Nov-2020 00:47:28 Europe/Moscow] PHP Warning:  A non-numeric value encountered in W:\web\2020\Front\A25\send.php on line 46
+[13-Nov-2020 00:47:28 Europe/Moscow] PHP Stack trace:
+[13-Nov-2020 00:47:28 Europe/Moscow] PHP   1. {main}() W:\web\2020\Front\A25\send.php:0
+[13-Nov-2020 00:47:28 Europe/Moscow] PHP Notice:  Undefined variable: moment in W:\web\2020\Front\A25\send.php on line 46
+[13-Nov-2020 00:47:28 Europe/Moscow] PHP Stack trace:
+[13-Nov-2020 00:47:28 Europe/Moscow] PHP   1. {main}() W:\web\2020\Front\A25\send.php:0
+[13-Nov-2020 00:47:28 Europe/Moscow] PHP Warning:  A non-numeric value encountered in W:\web\2020\Front\A25\send.php on line 46
+[13-Nov-2020 00:47:28 Europe/Moscow] PHP Stack trace:
+[13-Nov-2020 00:47:28 Europe/Moscow] PHP   1. {main}() W:\web\2020\Front\A25\send.php:0
+[13-Nov-2020 01:00:28 Europe/Moscow] Запись в логPDOException: SQLSTATE[HY000] [2002] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение.
+ in W:\web\2020\Front\A25\send.php:6
+Stack trace:
+#0 W:\web\2020\Front\A25\send.php(6): PDO->__construct('mysql:host=loca...', 'root', 'mysql')
+#1 {main}
+[13-Nov-2020 01:00:28 Europe/Moscow] PHP Warning:  A non-numeric value encountered in W:\web\2020\Front\A25\send.php on line 46
+[13-Nov-2020 01:00:28 Europe/Moscow] PHP Stack trace:
+[13-Nov-2020 01:00:28 Europe/Moscow] PHP   1. {main}() W:\web\2020\Front\A25\send.php:0
+[13-Nov-2020 01:00:28 Europe/Moscow] PHP Warning:  A non-numeric value encountered in W:\web\2020\Front\A25\send.php on line 46
+[13-Nov-2020 01:00:28 Europe/Moscow] PHP Stack trace:
+[13-Nov-2020 01:00:28 Europe/Moscow] PHP   1. {main}() W:\web\2020\Front\A25\send.php:0
+[13-Nov-2020 01:00:28 Europe/Moscow] PHP Notice:  Undefined variable: moment in W:\web\2020\Front\A25\send.php on line 46
+[13-Nov-2020 01:00:28 Europe/Moscow] PHP Stack trace:
+[13-Nov-2020 01:00:28 Europe/Moscow] PHP   1. {main}() W:\web\2020\Front\A25\send.php:0
+[13-Nov-2020 01:00:28 Europe/Moscow] PHP Warning:  A non-numeric value encountered in W:\web\2020\Front\A25\send.php on line 46
+[13-Nov-2020 01:00:28 Europe/Moscow] PHP Stack trace:
+[13-Nov-2020 01:00:28 Europe/Moscow] PHP   1. {main}() W:\web\2020\Front\A25\send.php:0
+[13-Nov-2020 01:54:45 Europe/Moscow] Запись в логPDOException: SQLSTATE[HY000] [2002] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение.
+ in W:\web\2020\Front\A25\send.php:6
+Stack trace:
+#0 W:\web\2020\Front\A25\send.php(6): PDO->__construct('mysql:host=loca...', 'root', 'mysql')
+#1 {main}
+[13-Nov-2020 01:54:45 Europe/Moscow] PHP Warning:  A non-numeric value encountered in W:\web\2020\Front\A25\send.php on line 50
+[13-Nov-2020 01:54:45 Europe/Moscow] PHP Stack trace:
+[13-Nov-2020 01:54:45 Europe/Moscow] PHP   1. {main}() W:\web\2020\Front\A25\send.php:0
+[13-Nov-2020 01:54:45 Europe/Moscow] PHP Warning:  A non-numeric value encountered in W:\web\2020\Front\A25\send.php on line 50
+[13-Nov-2020 01:54:45 Europe/Moscow] PHP Stack trace:
+[13-Nov-2020 01:54:45 Europe/Moscow] PHP   1. {main}() W:\web\2020\Front\A25\send.php:0
+[13-Nov-2020 01:54:45 Europe/Moscow] PHP Notice:  Undefined variable: moment in W:\web\2020\Front\A25\send.php on line 50
+[13-Nov-2020 01:54:45 Europe/Moscow] PHP Stack trace:
+[13-Nov-2020 01:54:45 Europe/Moscow] PHP   1. {main}() W:\web\2020\Front\A25\send.php:0
+[13-Nov-2020 01:54:45 Europe/Moscow] PHP Warning:  A non-numeric value encountered in W:\web\2020\Front\A25\send.php on line 50
+[13-Nov-2020 01:54:45 Europe/Moscow] PHP Stack trace:
+[13-Nov-2020 01:54:45 Europe/Moscow] PHP   1. {main}() W:\web\2020\Front\A25\send.php:0
+[13-Nov-2020 01:54:45 Europe/Moscow] PHP Warning:  A non-numeric value encountered in W:\web\2020\Front\A25\send.php on line 50
+[13-Nov-2020 01:54:45 Europe/Moscow] PHP Stack trace:
+[13-Nov-2020 01:54:45 Europe/Moscow] PHP   1. {main}() W:\web\2020\Front\A25\send.php:0
+[13-Nov-2020 01:54:45 Europe/Moscow] PHP Notice:  Undefined variable: data in W:\web\2020\Front\A25\send.php on line 50
+[13-Nov-2020 01:54:45 Europe/Moscow] PHP Stack trace:
+[13-Nov-2020 01:54:45 Europe/Moscow] PHP   1. {main}() W:\web\2020\Front\A25\send.php:0
+[13-Nov-2020 01:54:45 Europe/Moscow] PHP Warning:  A non-numeric value encountered in W:\web\2020\Front\A25\send.php on line 50
+[13-Nov-2020 01:54:45 Europe/Moscow] PHP Stack trace:
+[13-Nov-2020 01:54:45 Europe/Moscow] PHP   1. {main}() W:\web\2020\Front\A25\send.php:0
+[13-Nov-2020 01:56:08 Europe/Moscow] PHP Warning:  A non-numeric value encountered in W:\web\2020\Front\A25\send.php on line 49
+[13-Nov-2020 01:56:08 Europe/Moscow] PHP Stack trace:
+[13-Nov-2020 01:56:08 Europe/Moscow] PHP   1. {main}() W:\web\2020\Front\A25\send.php:0
+[13-Nov-2020 01:56:08 Europe/Moscow] PHP Warning:  A non-numeric value encountered in W:\web\2020\Front\A25\send.php on line 49
+[13-Nov-2020 01:56:08 Europe/Moscow] PHP Stack trace:
+[13-Nov-2020 01:56:08 Europe/Moscow] PHP   1. {main}() W:\web\2020\Front\A25\send.php:0
+[13-Nov-2020 01:56:08 Europe/Moscow] PHP Notice:  Undefined variable: data in W:\web\2020\Front\A25\send.php on line 49
+[13-Nov-2020 01:56:08 Europe/Moscow] PHP Stack trace:
+[13-Nov-2020 01:56:08 Europe/Moscow] PHP   1. {main}() W:\web\2020\Front\A25\send.php:0
+[13-Nov-2020 01:56:08 Europe/Moscow] PHP Warning:  A non-numeric value encountered in W:\web\2020\Front\A25\send.php on line 49
+[13-Nov-2020 01:56:08 Europe/Moscow] PHP Stack trace:
+[13-Nov-2020 01:56:08 Europe/Moscow] PHP   1. {main}() W:\web\2020\Front\A25\send.php:0
+[13-Nov-2020 01:56:08 Europe/Moscow] 0
+[13-Nov-2020 01:56:08 Europe/Moscow] PHP Warning:  A non-numeric value encountered in W:\web\2020\Front\A25\send.php on line 50
+[13-Nov-2020 01:56:08 Europe/Moscow] PHP Stack trace:
+[13-Nov-2020 01:56:08 Europe/Moscow] PHP   1. {main}() W:\web\2020\Front\A25\send.php:0
+[13-Nov-2020 01:56:08 Europe/Moscow] PHP Warning:  A non-numeric value encountered in W:\web\2020\Front\A25\send.php on line 50
+[13-Nov-2020 01:56:08 Europe/Moscow] PHP Stack trace:
+[13-Nov-2020 01:56:08 Europe/Moscow] PHP   1. {main}() W:\web\2020\Front\A25\send.php:0
+[13-Nov-2020 01:56:08 Europe/Moscow] PHP Notice:  Undefined variable: moment in W:\web\2020\Front\A25\send.php on line 50
+[13-Nov-2020 01:56:08 Europe/Moscow] PHP Stack trace:
+[13-Nov-2020 01:56:08 Europe/Moscow] PHP   1. {main}() W:\web\2020\Front\A25\send.php:0
+[13-Nov-2020 01:56:08 Europe/Moscow] PHP Warning:  A non-numeric value encountered in W:\web\2020\Front\A25\send.php on line 50
+[13-Nov-2020 01:56:08 Europe/Moscow] PHP Stack trace:
+[13-Nov-2020 01:56:08 Europe/Moscow] PHP   1. {main}() W:\web\2020\Front\A25\send.php:0
+[13-Nov-2020 01:57:47 Europe/Moscow] PHP Warning:  A non-numeric value encountered in W:\web\2020\Front\A25\send.php on line 49
+[13-Nov-2020 01:57:47 Europe/Moscow] PHP Stack trace:
+[13-Nov-2020 01:57:47 Europe/Moscow] PHP   1. {main}() W:\web\2020\Front\A25\send.php:0
+[13-Nov-2020 01:57:47 Europe/Moscow] PHP Warning:  A non-numeric value encountered in W:\web\2020\Front\A25\send.php on line 49
+[13-Nov-2020 01:57:47 Europe/Moscow] PHP Stack trace:
+[13-Nov-2020 01:57:47 Europe/Moscow] PHP   1. {main}() W:\web\2020\Front\A25\send.php:0
+[13-Nov-2020 01:57:47 Europe/Moscow] PHP Notice:  Undefined variable: data in W:\web\2020\Front\A25\send.php on line 49
+[13-Nov-2020 01:57:47 Europe/Moscow] PHP Stack trace:
+[13-Nov-2020 01:57:47 Europe/Moscow] PHP   1. {main}() W:\web\2020\Front\A25\send.php:0
+[13-Nov-2020 01:57:47 Europe/Moscow] PHP Warning:  A non-numeric value encountered in W:\web\2020\Front\A25\send.php on line 49
+[13-Nov-2020 01:57:47 Europe/Moscow] PHP Stack trace:
+[13-Nov-2020 01:57:47 Europe/Moscow] PHP   1. {main}() W:\web\2020\Front\A25\send.php:0
+[13-Nov-2020 01:57:47 Europe/Moscow] 0
+[13-Nov-2020 01:57:47 Europe/Moscow] PHP Warning:  A non-numeric value encountered in W:\web\2020\Front\A25\send.php on line 50
+[13-Nov-2020 01:57:47 Europe/Moscow] PHP Stack trace:
+[13-Nov-2020 01:57:47 Europe/Moscow] PHP   1. {main}() W:\web\2020\Front\A25\send.php:0
+[13-Nov-2020 01:57:47 Europe/Moscow] PHP Warning:  A non-numeric value encountered in W:\web\2020\Front\A25\send.php on line 50
+[13-Nov-2020 01:57:47 Europe/Moscow] PHP Stack trace:
+[13-Nov-2020 01:57:47 Europe/Moscow] PHP   1. {main}() W:\web\2020\Front\A25\send.php:0
+[13-Nov-2020 01:57:47 Europe/Moscow] PHP Notice:  Undefined variable: moment in W:\web\2020\Front\A25\send.php on line 50
+[13-Nov-2020 01:57:47 Europe/Moscow] PHP Stack trace:
+[13-Nov-2020 01:57:47 Europe/Moscow] PHP   1. {main}() W:\web\2020\Front\A25\send.php:0
+[13-Nov-2020 01:57:47 Europe/Moscow] PHP Warning:  A non-numeric value encountered in W:\web\2020\Front\A25\send.php on line 50
+[13-Nov-2020 01:57:47 Europe/Moscow] PHP Stack trace:
+[13-Nov-2020 01:57:47 Europe/Moscow] PHP   1. {main}() W:\web\2020\Front\A25\send.php:0
+[13-Nov-2020 01:58:27 Europe/Moscow] Запись в логPDOException: SQLSTATE[HY000] [2002] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение.
+ in W:\web\2020\Front\A25\send.php:6
+Stack trace:
+#0 W:\web\2020\Front\A25\send.php(6): PDO->__construct('mysql:host=loca...', 'root', 'mysql')
+#1 {main}
+[13-Nov-2020 01:58:27 Europe/Moscow] PHP Warning:  A non-numeric value encountered in W:\web\2020\Front\A25\send.php on line 50
+[13-Nov-2020 01:58:27 Europe/Moscow] PHP Stack trace:
+[13-Nov-2020 01:58:27 Europe/Moscow] PHP   1. {main}() W:\web\2020\Front\A25\send.php:0
+[13-Nov-2020 01:58:27 Europe/Moscow] PHP Warning:  A non-numeric value encountered in W:\web\2020\Front\A25\send.php on line 50
+[13-Nov-2020 01:58:27 Europe/Moscow] PHP Stack trace:
+[13-Nov-2020 01:58:27 Europe/Moscow] PHP   1. {main}() W:\web\2020\Front\A25\send.php:0
+[13-Nov-2020 01:58:27 Europe/Moscow] PHP Notice:  Undefined variable: moment in W:\web\2020\Front\A25\send.php on line 50
+[13-Nov-2020 01:58:27 Europe/Moscow] PHP Stack trace:
+[13-Nov-2020 01:58:27 Europe/Moscow] PHP   1. {main}() W:\web\2020\Front\A25\send.php:0
+[13-Nov-2020 01:58:27 Europe/Moscow] PHP Warning:  A non-numeric value encountered in W:\web\2020\Front\A25\send.php on line 50
+[13-Nov-2020 01:58:27 Europe/Moscow] PHP Stack trace:
+[13-Nov-2020 01:58:27 Europe/Moscow] PHP   1. {main}() W:\web\2020\Front\A25\send.php:0
+[13-Nov-2020 01:59:47 Europe/Moscow] Запись в логPDOException: SQLSTATE[HY000] [2002] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение.
+ in W:\web\2020\Front\A25\send.php:6
+Stack trace:
+#0 W:\web\2020\Front\A25\send.php(6): PDO->__construct('mysql:host=loca...', 'root', 'mysql')
+#1 {main}
+[13-Nov-2020 01:59:47 Europe/Moscow] PHP Warning:  A non-numeric value encountered in W:\web\2020\Front\A25\send.php on line 50
+[13-Nov-2020 01:59:47 Europe/Moscow] PHP Stack trace:
+[13-Nov-2020 01:59:47 Europe/Moscow] PHP   1. {main}() W:\web\2020\Front\A25\send.php:0
+[13-Nov-2020 01:59:47 Europe/Moscow] PHP Warning:  A non-numeric value encountered in W:\web\2020\Front\A25\send.php on line 50
+[13-Nov-2020 01:59:47 Europe/Moscow] PHP Stack trace:
+[13-Nov-2020 01:59:47 Europe/Moscow] PHP   1. {main}() W:\web\2020\Front\A25\send.php:0
+[13-Nov-2020 01:59:47 Europe/Moscow] PHP Notice:  Undefined variable: moment in W:\web\2020\Front\A25\send.php on line 50
+[13-Nov-2020 01:59:47 Europe/Moscow] PHP Stack trace:
+[13-Nov-2020 01:59:47 Europe/Moscow] PHP   1. {main}() W:\web\2020\Front\A25\send.php:0
+[13-Nov-2020 01:59:47 Europe/Moscow] PHP Warning:  A non-numeric value encountered in W:\web\2020\Front\A25\send.php on line 50
+[13-Nov-2020 01:59:47 Europe/Moscow] PHP Stack trace:
+[13-Nov-2020 01:59:47 Europe/Moscow] PHP   1. {main}() W:\web\2020\Front\A25\send.php:0
+[13-Nov-2020 01:59:51 Europe/Moscow] Запись в логPDOException: SQLSTATE[HY000] [2002] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение.
+ in W:\web\2020\Front\A25\send.php:6
+Stack trace:
+#0 W:\web\2020\Front\A25\send.php(6): PDO->__construct('mysql:host=loca...', 'root', 'mysql')
+#1 {main}
+[13-Nov-2020 01:59:51 Europe/Moscow] PHP Warning:  A non-numeric value encountered in W:\web\2020\Front\A25\send.php on line 50
+[13-Nov-2020 01:59:51 Europe/Moscow] PHP Stack trace:
+[13-Nov-2020 01:59:51 Europe/Moscow] PHP   1. {main}() W:\web\2020\Front\A25\send.php:0
+[13-Nov-2020 01:59:51 Europe/Moscow] PHP Warning:  A non-numeric value encountered in W:\web\2020\Front\A25\send.php on line 50
+[13-Nov-2020 01:59:51 Europe/Moscow] PHP Stack trace:
+[13-Nov-2020 01:59:51 Europe/Moscow] PHP   1. {main}() W:\web\2020\Front\A25\send.php:0
+[13-Nov-2020 01:59:51 Europe/Moscow] PHP Notice:  Undefined variable: moment in W:\web\2020\Front\A25\send.php on line 50
+[13-Nov-2020 01:59:51 Europe/Moscow] PHP Stack trace:
+[13-Nov-2020 01:59:51 Europe/Moscow] PHP   1. {main}() W:\web\2020\Front\A25\send.php:0
+[13-Nov-2020 01:59:51 Europe/Moscow] PHP Warning:  A non-numeric value encountered in W:\web\2020\Front\A25\send.php on line 50
+[13-Nov-2020 01:59:51 Europe/Moscow] PHP Stack trace:
+[13-Nov-2020 01:59:51 Europe/Moscow] PHP   1. {main}() W:\web\2020\Front\A25\send.php:0
+[13-Nov-2020 01:59:55 Europe/Moscow] Запись в логPDOException: SQLSTATE[HY000] [2002] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение.
+ in W:\web\2020\Front\A25\send.php:6
+Stack trace:
+#0 W:\web\2020\Front\A25\send.php(6): PDO->__construct('mysql:host=loca...', 'root', 'mysql')
+#1 {main}
+[13-Nov-2020 01:59:55 Europe/Moscow] PHP Warning:  A non-numeric value encountered in W:\web\2020\Front\A25\send.php on line 50
+[13-Nov-2020 01:59:55 Europe/Moscow] PHP Stack trace:
+[13-Nov-2020 01:59:55 Europe/Moscow] PHP   1. {main}() W:\web\2020\Front\A25\send.php:0
+[13-Nov-2020 01:59:55 Europe/Moscow] PHP Warning:  A non-numeric value encountered in W:\web\2020\Front\A25\send.php on line 50
+[13-Nov-2020 01:59:55 Europe/Moscow] PHP Stack trace:
+[13-Nov-2020 01:59:55 Europe/Moscow] PHP   1. {main}() W:\web\2020\Front\A25\send.php:0
+[13-Nov-2020 01:59:55 Europe/Moscow] PHP Notice:  Undefined variable: moment in W:\web\2020\Front\A25\send.php on line 50
+[13-Nov-2020 01:59:55 Europe/Moscow] PHP Stack trace:
+[13-Nov-2020 01:59:55 Europe/Moscow] PHP   1. {main}() W:\web\2020\Front\A25\send.php:0
+[13-Nov-2020 01:59:55 Europe/Moscow] PHP Warning:  A non-numeric value encountered in W:\web\2020\Front\A25\send.php on line 50
+[13-Nov-2020 01:59:55 Europe/Moscow] PHP Stack trace:
+[13-Nov-2020 01:59:55 Europe/Moscow] PHP   1. {main}() W:\web\2020\Front\A25\send.php:0
+[13-Nov-2020 01:59:59 Europe/Moscow] Запись в логPDOException: SQLSTATE[HY000] [2002] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение.
+ in W:\web\2020\Front\A25\send.php:6
+Stack trace:
+#0 W:\web\2020\Front\A25\send.php(6): PDO->__construct('mysql:host=loca...', 'root', 'mysql')
+#1 {main}
+[13-Nov-2020 01:59:59 Europe/Moscow] PHP Warning:  A non-numeric value encountered in W:\web\2020\Front\A25\send.php on line 50
+[13-Nov-2020 01:59:59 Europe/Moscow] PHP Stack trace:
+[13-Nov-2020 01:59:59 Europe/Moscow] PHP   1. {main}() W:\web\2020\Front\A25\send.php:0
+[13-Nov-2020 01:59:59 Europe/Moscow] PHP Warning:  A non-numeric value encountered in W:\web\2020\Front\A25\send.php on line 50
+[13-Nov-2020 01:59:59 Europe/Moscow] PHP Stack trace:
+[13-Nov-2020 01:59:59 Europe/Moscow] PHP   1. {main}() W:\web\2020\Front\A25\send.php:0
+[13-Nov-2020 01:59:59 Europe/Moscow] PHP Notice:  Undefined variable: moment in W:\web\2020\Front\A25\send.php on line 50
+[13-Nov-2020 01:59:59 Europe/Moscow] PHP Stack trace:
+[13-Nov-2020 01:59:59 Europe/Moscow] PHP   1. {main}() W:\web\2020\Front\A25\send.php:0
+[13-Nov-2020 01:59:59 Europe/Moscow] PHP Warning:  A non-numeric value encountered in W:\web\2020\Front\A25\send.php on line 50
+[13-Nov-2020 01:59:59 Europe/Moscow] PHP Stack trace:
+[13-Nov-2020 01:59:59 Europe/Moscow] PHP   1. {main}() W:\web\2020\Front\A25\send.php:0
+[13-Nov-2020 02:00:03 Europe/Moscow] Запись в логPDOException: SQLSTATE[HY000] [2002] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение.
+ in W:\web\2020\Front\A25\send.php:6
+Stack trace:
+#0 W:\web\2020\Front\A25\send.php(6): PDO->__construct('mysql:host=loca...', 'root', 'mysql')
+#1 {main}
+[13-Nov-2020 02:00:03 Europe/Moscow] PHP Warning:  A non-numeric value encountered in W:\web\2020\Front\A25\send.php on line 50
+[13-Nov-2020 02:00:03 Europe/Moscow] PHP Stack trace:
+[13-Nov-2020 02:00:03 Europe/Moscow] PHP   1. {main}() W:\web\2020\Front\A25\send.php:0
+[13-Nov-2020 02:00:03 Europe/Moscow] PHP Warning:  A non-numeric value encountered in W:\web\2020\Front\A25\send.php on line 50
+[13-Nov-2020 02:00:03 Europe/Moscow] PHP Stack trace:
+[13-Nov-2020 02:00:03 Europe/Moscow] PHP   1. {main}() W:\web\2020\Front\A25\send.php:0
+[13-Nov-2020 02:00:04 Europe/Moscow] PHP Notice:  Undefined variable: moment in W:\web\2020\Front\A25\send.php on line 50
+[13-Nov-2020 02:00:04 Europe/Moscow] PHP Stack trace:
+[13-Nov-2020 02:00:04 Europe/Moscow] PHP   1. {main}() W:\web\2020\Front\A25\send.php:0
+[13-Nov-2020 02:00:04 Europe/Moscow] PHP Warning:  A non-numeric value encountered in W:\web\2020\Front\A25\send.php on line 50
+[13-Nov-2020 02:00:04 Europe/Moscow] PHP Stack trace:
+[13-Nov-2020 02:00:04 Europe/Moscow] PHP   1. {main}() W:\web\2020\Front\A25\send.php:0
+[13-Nov-2020 02:00:08 Europe/Moscow] Запись в логPDOException: SQLSTATE[HY000] [2002] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение.
+ in W:\web\2020\Front\A25\send.php:6
+Stack trace:
+#0 W:\web\2020\Front\A25\send.php(6): PDO->__construct('mysql:host=loca...', 'root', 'mysql')
+#1 {main}
+[13-Nov-2020 02:00:08 Europe/Moscow] PHP Warning:  A non-numeric value encountered in W:\web\2020\Front\A25\send.php on line 50
+[13-Nov-2020 02:00:08 Europe/Moscow] PHP Stack trace:
+[13-Nov-2020 02:00:08 Europe/Moscow] PHP   1. {main}() W:\web\2020\Front\A25\send.php:0
+[13-Nov-2020 02:00:08 Europe/Moscow] PHP Warning:  A non-numeric value encountered in W:\web\2020\Front\A25\send.php on line 50
+[13-Nov-2020 02:00:08 Europe/Moscow] PHP Stack trace:
+[13-Nov-2020 02:00:08 Europe/Moscow] PHP   1. {main}() W:\web\2020\Front\A25\send.php:0
+[13-Nov-2020 02:00:08 Europe/Moscow] PHP Notice:  Undefined variable: moment in W:\web\2020\Front\A25\send.php on line 50
+[13-Nov-2020 02:00:08 Europe/Moscow] PHP Stack trace:
+[13-Nov-2020 02:00:08 Europe/Moscow] PHP   1. {main}() W:\web\2020\Front\A25\send.php:0
+[13-Nov-2020 02:00:08 Europe/Moscow] PHP Warning:  A non-numeric value encountered in W:\web\2020\Front\A25\send.php on line 50
+[13-Nov-2020 02:00:08 Europe/Moscow] PHP Stack trace:
+[13-Nov-2020 02:00:08 Europe/Moscow] PHP   1. {main}() W:\web\2020\Front\A25\send.php:0
+[13-Nov-2020 02:00:12 Europe/Moscow] Запись в логPDOException: SQLSTATE[HY000] [2002] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение.
+ in W:\web\2020\Front\A25\send.php:6
+Stack trace:
+#0 W:\web\2020\Front\A25\send.php(6): PDO->__construct('mysql:host=loca...', 'root', 'mysql')
+#1 {main}
+[13-Nov-2020 02:00:12 Europe/Moscow] PHP Warning:  A non-numeric value encountered in W:\web\2020\Front\A25\send.php on line 50
+[13-Nov-2020 02:00:12 Europe/Moscow] PHP Stack trace:
+[13-Nov-2020 02:00:12 Europe/Moscow] PHP   1. {main}() W:\web\2020\Front\A25\send.php:0
+[13-Nov-2020 02:00:12 Europe/Moscow] PHP Warning:  A non-numeric value encountered in W:\web\2020\Front\A25\send.php on line 50
+[13-Nov-2020 02:00:12 Europe/Moscow] PHP Stack trace:
+[13-Nov-2020 02:00:12 Europe/Moscow] PHP   1. {main}() W:\web\2020\Front\A25\send.php:0
+[13-Nov-2020 02:00:12 Europe/Moscow] PHP Notice:  Undefined variable: moment in W:\web\2020\Front\A25\send.php on line 50
+[13-Nov-2020 02:00:12 Europe/Moscow] PHP Stack trace:
+[13-Nov-2020 02:00:12 Europe/Moscow] PHP   1. {main}() W:\web\2020\Front\A25\send.php:0
+[13-Nov-2020 02:00:12 Europe/Moscow] PHP Warning:  A non-numeric value encountered in W:\web\2020\Front\A25\send.php on line 50
+[13-Nov-2020 02:00:12 Europe/Moscow] PHP Stack trace:
+[13-Nov-2020 02:00:12 Europe/Moscow] PHP   1. {main}() W:\web\2020\Front\A25\send.php:0
+[13-Nov-2020 02:00:35 Europe/Moscow] Запись в логPDOException: SQLSTATE[HY000] [2002] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение.
+ in W:\web\2020\Front\A25\send.php:6
+Stack trace:
+#0 W:\web\2020\Front\A25\send.php(6): PDO->__construct('mysql:host=loca...', 'root', 'mysql')
+#1 {main}
+[13-Nov-2020 02:00:35 Europe/Moscow] PHP Warning:  A non-numeric value encountered in W:\web\2020\Front\A25\send.php on line 50
+[13-Nov-2020 02:00:35 Europe/Moscow] PHP Stack trace:
+[13-Nov-2020 02:00:35 Europe/Moscow] PHP   1. {main}() W:\web\2020\Front\A25\send.php:0
+[13-Nov-2020 02:00:35 Europe/Moscow] PHP Warning:  A non-numeric value encountered in W:\web\2020\Front\A25\send.php on line 50
+[13-Nov-2020 02:00:35 Europe/Moscow] PHP Stack trace:
+[13-Nov-2020 02:00:35 Europe/Moscow] PHP   1. {main}() W:\web\2020\Front\A25\send.php:0
+[13-Nov-2020 02:00:35 Europe/Moscow] PHP Notice:  Undefined variable: moment in W:\web\2020\Front\A25\send.php on line 50
+[13-Nov-2020 02:00:35 Europe/Moscow] PHP Stack trace:
+[13-Nov-2020 02:00:35 Europe/Moscow] PHP   1. {main}() W:\web\2020\Front\A25\send.php:0
+[13-Nov-2020 02:00:35 Europe/Moscow] PHP Warning:  A non-numeric value encountered in W:\web\2020\Front\A25\send.php on line 50
+[13-Nov-2020 02:00:35 Europe/Moscow] PHP Stack trace:
+[13-Nov-2020 02:00:35 Europe/Moscow] PHP   1. {main}() W:\web\2020\Front\A25\send.php:0
+[13-Nov-2020 02:00:40 Europe/Moscow] Запись в логPDOException: SQLSTATE[HY000] [2002] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение.
+ in W:\web\2020\Front\A25\send.php:6
+Stack trace:
+#0 W:\web\2020\Front\A25\send.php(6): PDO->__construct('mysql:host=loca...', 'root', 'mysql')
+#1 {main}
+[13-Nov-2020 02:00:40 Europe/Moscow] PHP Warning:  A non-numeric value encountered in W:\web\2020\Front\A25\send.php on line 50
+[13-Nov-2020 02:00:40 Europe/Moscow] PHP Stack trace:
+[13-Nov-2020 02:00:40 Europe/Moscow] PHP   1. {main}() W:\web\2020\Front\A25\send.php:0
+[13-Nov-2020 02:00:40 Europe/Moscow] PHP Warning:  A non-numeric value encountered in W:\web\2020\Front\A25\send.php on line 50
+[13-Nov-2020 02:00:40 Europe/Moscow] PHP Stack trace:
+[13-Nov-2020 02:00:40 Europe/Moscow] PHP   1. {main}() W:\web\2020\Front\A25\send.php:0
+[13-Nov-2020 02:00:40 Europe/Moscow] PHP Notice:  Undefined variable: moment in W:\web\2020\Front\A25\send.php on line 50
+[13-Nov-2020 02:00:40 Europe/Moscow] PHP Stack trace:
+[13-Nov-2020 02:00:40 Europe/Moscow] PHP   1. {main}() W:\web\2020\Front\A25\send.php:0
+[13-Nov-2020 02:00:40 Europe/Moscow] PHP Warning:  A non-numeric value encountered in W:\web\2020\Front\A25\send.php on line 50
+[13-Nov-2020 02:00:40 Europe/Moscow] PHP Stack trace:
+[13-Nov-2020 02:00:40 Europe/Moscow] PHP   1. {main}() W:\web\2020\Front\A25\send.php:0
+[13-Nov-2020 02:00:44 Europe/Moscow] Запись в логPDOException: SQLSTATE[HY000] [2002] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение.
+ in W:\web\2020\Front\A25\send.php:6
+Stack trace:
+#0 W:\web\2020\Front\A25\send.php(6): PDO->__construct('mysql:host=loca...', 'root', 'mysql')
+#1 {main}
+[13-Nov-2020 02:00:44 Europe/Moscow] PHP Warning:  A non-numeric value encountered in W:\web\2020\Front\A25\send.php on line 50
+[13-Nov-2020 02:00:44 Europe/Moscow] PHP Stack trace:
+[13-Nov-2020 02:00:44 Europe/Moscow] PHP   1. {main}() W:\web\2020\Front\A25\send.php:0
+[13-Nov-2020 02:00:44 Europe/Moscow] PHP Warning:  A non-numeric value encountered in W:\web\2020\Front\A25\send.php on line 50
+[13-Nov-2020 02:00:44 Europe/Moscow] PHP Stack trace:
+[13-Nov-2020 02:00:44 Europe/Moscow] PHP   1. {main}() W:\web\2020\Front\A25\send.php:0
+[13-Nov-2020 02:00:44 Europe/Moscow] PHP Notice:  Undefined variable: moment in W:\web\2020\Front\A25\send.php on line 50
+[13-Nov-2020 02:00:44 Europe/Moscow] PHP Stack trace:
+[13-Nov-2020 02:00:44 Europe/Moscow] PHP   1. {main}() W:\web\2020\Front\A25\send.php:0
+[13-Nov-2020 02:00:44 Europe/Moscow] PHP Warning:  A non-numeric value encountered in W:\web\2020\Front\A25\send.php on line 50
+[13-Nov-2020 02:00:44 Europe/Moscow] PHP Stack trace:
+[13-Nov-2020 02:00:44 Europe/Moscow] PHP   1. {main}() W:\web\2020\Front\A25\send.php:0
+[13-Nov-2020 02:00:48 Europe/Moscow] Запись в логPDOException: SQLSTATE[HY000] [2002] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение.
+ in W:\web\2020\Front\A25\send.php:6
+Stack trace:
+#0 W:\web\2020\Front\A25\send.php(6): PDO->__construct('mysql:host=loca...', 'root', 'mysql')
+#1 {main}
+[13-Nov-2020 02:00:48 Europe/Moscow] PHP Warning:  A non-numeric value encountered in W:\web\2020\Front\A25\send.php on line 50
+[13-Nov-2020 02:00:48 Europe/Moscow] PHP Stack trace:
+[13-Nov-2020 02:00:48 Europe/Moscow] PHP   1. {main}() W:\web\2020\Front\A25\send.php:0
+[13-Nov-2020 02:00:48 Europe/Moscow] PHP Warning:  A non-numeric value encountered in W:\web\2020\Front\A25\send.php on line 50
+[13-Nov-2020 02:00:48 Europe/Moscow] PHP Stack trace:
+[13-Nov-2020 02:00:48 Europe/Moscow] PHP   1. {main}() W:\web\2020\Front\A25\send.php:0
+[13-Nov-2020 02:00:48 Europe/Moscow] PHP Notice:  Undefined variable: moment in W:\web\2020\Front\A25\send.php on line 50
+[13-Nov-2020 02:00:48 Europe/Moscow] PHP Stack trace:
+[13-Nov-2020 02:00:48 Europe/Moscow] PHP   1. {main}() W:\web\2020\Front\A25\send.php:0
+[13-Nov-2020 02:00:48 Europe/Moscow] PHP Warning:  A non-numeric value encountered in W:\web\2020\Front\A25\send.php on line 50
+[13-Nov-2020 02:00:48 Europe/Moscow] PHP Stack trace:
+[13-Nov-2020 02:00:48 Europe/Moscow] PHP   1. {main}() W:\web\2020\Front\A25\send.php:0
+[13-Nov-2020 02:00:52 Europe/Moscow] Запись в логPDOException: SQLSTATE[HY000] [2002] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение.
+ in W:\web\2020\Front\A25\send.php:6
+Stack trace:
+#0 W:\web\2020\Front\A25\send.php(6): PDO->__construct('mysql:host=loca...', 'root', 'mysql')
+#1 {main}
+[13-Nov-2020 02:00:52 Europe/Moscow] PHP Warning:  A non-numeric value encountered in W:\web\2020\Front\A25\send.php on line 50
+[13-Nov-2020 02:00:52 Europe/Moscow] PHP Stack trace:
+[13-Nov-2020 02:00:52 Europe/Moscow] PHP   1. {main}() W:\web\2020\Front\A25\send.php:0
+[13-Nov-2020 02:00:52 Europe/Moscow] PHP Warning:  A non-numeric value encountered in W:\web\2020\Front\A25\send.php on line 50
+[13-Nov-2020 02:00:52 Europe/Moscow] PHP Stack trace:
+[13-Nov-2020 02:00:52 Europe/Moscow] PHP   1. {main}() W:\web\2020\Front\A25\send.php:0
+[13-Nov-2020 02:00:52 Europe/Moscow] PHP Notice:  Undefined variable: moment in W:\web\2020\Front\A25\send.php on line 50
+[13-Nov-2020 02:00:52 Europe/Moscow] PHP Stack trace:
+[13-Nov-2020 02:00:52 Europe/Moscow] PHP   1. {main}() W:\web\2020\Front\A25\send.php:0
+[13-Nov-2020 02:00:52 Europe/Moscow] PHP Warning:  A non-numeric value encountered in W:\web\2020\Front\A25\send.php on line 50
+[13-Nov-2020 02:00:52 Europe/Moscow] PHP Stack trace:
+[13-Nov-2020 02:00:52 Europe/Moscow] PHP   1. {main}() W:\web\2020\Front\A25\send.php:0
+[13-Nov-2020 02:02:40 Europe/Moscow] Запись в логPDOException: SQLSTATE[HY000] [2002] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение.
+ in W:\web\2020\Front\A25\send.php:6
+Stack trace:
+#0 W:\web\2020\Front\A25\send.php(6): PDO->__construct('mysql:host=loca...', 'root', 'mysql')
+#1 {main}
+[13-Nov-2020 02:02:42 Europe/Moscow] PHP Warning:  A non-numeric value encountered in W:\web\2020\Front\A25\send.php on line 50
+[13-Nov-2020 02:02:42 Europe/Moscow] PHP Stack trace:
+[13-Nov-2020 02:02:42 Europe/Moscow] PHP   1. {main}() W:\web\2020\Front\A25\send.php:0
+[13-Nov-2020 02:02:42 Europe/Moscow] PHP Warning:  A non-numeric value encountered in W:\web\2020\Front\A25\send.php on line 50
+[13-Nov-2020 02:02:42 Europe/Moscow] PHP Stack trace:
+[13-Nov-2020 02:02:42 Europe/Moscow] PHP   1. {main}() W:\web\2020\Front\A25\send.php:0
+[13-Nov-2020 02:02:42 Europe/Moscow] PHP Notice:  Undefined variable: moment in W:\web\2020\Front\A25\send.php on line 50
+[13-Nov-2020 02:02:42 Europe/Moscow] PHP Stack trace:
+[13-Nov-2020 02:02:42 Europe/Moscow] PHP   1. {main}() W:\web\2020\Front\A25\send.php:0
+[13-Nov-2020 02:02:42 Europe/Moscow] PHP Warning:  A non-numeric value encountered in W:\web\2020\Front\A25\send.php on line 50
+[13-Nov-2020 02:02:42 Europe/Moscow] PHP Stack trace:
+[13-Nov-2020 02:02:42 Europe/Moscow] PHP   1. {main}() W:\web\2020\Front\A25\send.php:0
+[13-Nov-2020 02:02:46 Europe/Moscow] Запись в логPDOException: SQLSTATE[HY000] [2002] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение.
+ in W:\web\2020\Front\A25\send.php:6
+Stack trace:
+#0 W:\web\2020\Front\A25\send.php(6): PDO->__construct('mysql:host=loca...', 'root', 'mysql')
+#1 {main}
+[13-Nov-2020 02:02:47 Europe/Moscow] PHP Warning:  A non-numeric value encountered in W:\web\2020\Front\A25\send.php on line 50
+[13-Nov-2020 02:02:48 Europe/Moscow] PHP Stack trace:
+[13-Nov-2020 02:02:49 Europe/Moscow] PHP   1. {main}() W:\web\2020\Front\A25\send.php:0
+[13-Nov-2020 02:02:49 Europe/Moscow] PHP Warning:  A non-numeric value encountered in W:\web\2020\Front\A25\send.php on line 50
+[13-Nov-2020 02:02:49 Europe/Moscow] PHP Stack trace:
+[13-Nov-2020 02:02:49 Europe/Moscow] PHP   1. {main}() W:\web\2020\Front\A25\send.php:0
+[13-Nov-2020 02:02:49 Europe/Moscow] PHP Notice:  Undefined variable: moment in W:\web\2020\Front\A25\send.php on line 50
+[13-Nov-2020 02:02:49 Europe/Moscow] PHP Stack trace:
+[13-Nov-2020 02:02:49 Europe/Moscow] PHP   1. {main}() W:\web\2020\Front\A25\send.php:0
+[13-Nov-2020 02:02:49 Europe/Moscow] PHP Warning:  A non-numeric value encountered in W:\web\2020\Front\A25\send.php on line 50
+[13-Nov-2020 02:02:49 Europe/Moscow] PHP Stack trace:
+[13-Nov-2020 02:02:49 Europe/Moscow] PHP   1. {main}() W:\web\2020\Front\A25\send.php:0
+[13-Nov-2020 02:02:53 Europe/Moscow] Запись в логPDOException: SQLSTATE[HY000] [2002] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение.
+ in W:\web\2020\Front\A25\send.php:6
+Stack trace:
+#0 W:\web\2020\Front\A25\send.php(6): PDO->__construct('mysql:host=loca...', 'root', 'mysql')
+#1 {main}
+[13-Nov-2020 02:02:54 Europe/Moscow] PHP Warning:  A non-numeric value encountered in W:\web\2020\Front\A25\send.php on line 50
+[13-Nov-2020 02:02:54 Europe/Moscow] PHP Stack trace:
+[13-Nov-2020 02:02:54 Europe/Moscow] PHP   1. {main}() W:\web\2020\Front\A25\send.php:0
+[13-Nov-2020 02:02:54 Europe/Moscow] PHP Warning:  A non-numeric value encountered in W:\web\2020\Front\A25\send.php on line 50
+[13-Nov-2020 02:02:54 Europe/Moscow] PHP Stack trace:
+[13-Nov-2020 02:02:54 Europe/Moscow] PHP   1. {main}() W:\web\2020\Front\A25\send.php:0
+[13-Nov-2020 02:02:54 Europe/Moscow] PHP Notice:  Undefined variable: moment in W:\web\2020\Front\A25\send.php on line 50
+[13-Nov-2020 02:02:54 Europe/Moscow] PHP Stack trace:
+[13-Nov-2020 02:02:54 Europe/Moscow] PHP   1. {main}() W:\web\2020\Front\A25\send.php:0
+[13-Nov-2020 02:02:54 Europe/Moscow] PHP Warning:  A non-numeric value encountered in W:\web\2020\Front\A25\send.php on line 50
+[13-Nov-2020 02:02:54 Europe/Moscow] PHP Stack trace:
+[13-Nov-2020 02:02:54 Europe/Moscow] PHP   1. {main}() W:\web\2020\Front\A25\send.php:0
+[13-Nov-2020 02:02:58 Europe/Moscow] Запись в логPDOException: SQLSTATE[HY000] [2002] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение.
+ in W:\web\2020\Front\A25\send.php:6
+Stack trace:
+#0 W:\web\2020\Front\A25\send.php(6): PDO->__construct('mysql:host=loca...', 'root', 'mysql')
+#1 {main}
+[13-Nov-2020 02:02:58 Europe/Moscow] PHP Warning:  A non-numeric value encountered in W:\web\2020\Front\A25\send.php on line 50
+[13-Nov-2020 02:02:58 Europe/Moscow] PHP Stack trace:
+[13-Nov-2020 02:02:58 Europe/Moscow] PHP   1. {main}() W:\web\2020\Front\A25\send.php:0
+[13-Nov-2020 02:02:58 Europe/Moscow] PHP Warning:  A non-numeric value encountered in W:\web\2020\Front\A25\send.php on line 50
+[13-Nov-2020 02:02:58 Europe/Moscow] PHP Stack trace:
+[13-Nov-2020 02:02:58 Europe/Moscow] PHP   1. {main}() W:\web\2020\Front\A25\send.php:0
+[13-Nov-2020 02:02:58 Europe/Moscow] PHP Notice:  Undefined variable: moment in W:\web\2020\Front\A25\send.php on line 50
+[13-Nov-2020 02:02:58 Europe/Moscow] PHP Stack trace:
+[13-Nov-2020 02:02:58 Europe/Moscow] PHP   1. {main}() W:\web\2020\Front\A25\send.php:0
+[13-Nov-2020 02:02:58 Europe/Moscow] PHP Warning:  A non-numeric value encountered in W:\web\2020\Front\A25\send.php on line 50
+[13-Nov-2020 02:02:58 Europe/Moscow] PHP Stack trace:
+[13-Nov-2020 02:02:58 Europe/Moscow] PHP   1. {main}() W:\web\2020\Front\A25\send.php:0
+[13-Nov-2020 02:03:02 Europe/Moscow] Запись в логPDOException: SQLSTATE[HY000] [2002] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение.
+ in W:\web\2020\Front\A25\send.php:6
+Stack trace:
+#0 W:\web\2020\Front\A25\send.php(6): PDO->__construct('mysql:host=loca...', 'root', 'mysql')
+#1 {main}
+[13-Nov-2020 02:03:02 Europe/Moscow] PHP Warning:  A non-numeric value encountered in W:\web\2020\Front\A25\send.php on line 50
+[13-Nov-2020 02:03:02 Europe/Moscow] PHP Stack trace:
+[13-Nov-2020 02:03:02 Europe/Moscow] PHP   1. {main}() W:\web\2020\Front\A25\send.php:0
+[13-Nov-2020 02:03:02 Europe/Moscow] PHP Warning:  A non-numeric value encountered in W:\web\2020\Front\A25\send.php on line 50
+[13-Nov-2020 02:03:02 Europe/Moscow] PHP Stack trace:
+[13-Nov-2020 02:03:02 Europe/Moscow] PHP   1. {main}() W:\web\2020\Front\A25\send.php:0
+[13-Nov-2020 02:03:02 Europe/Moscow] PHP Notice:  Undefined variable: moment in W:\web\2020\Front\A25\send.php on line 50
+[13-Nov-2020 02:03:02 Europe/Moscow] PHP Stack trace:
+[13-Nov-2020 02:03:02 Europe/Moscow] PHP   1. {main}() W:\web\2020\Front\A25\send.php:0
+[13-Nov-2020 02:03:02 Europe/Moscow] PHP Warning:  A non-numeric value encountered in W:\web\2020\Front\A25\send.php on line 50
+[13-Nov-2020 02:03:02 Europe/Moscow] PHP Stack trace:
+[13-Nov-2020 02:03:02 Europe/Moscow] PHP   1. {main}() W:\web\2020\Front\A25\send.php:0
+[13-Nov-2020 02:03:33 Europe/Moscow] Запись в логPDOException: SQLSTATE[HY000] [2002] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение.
+ in W:\web\2020\Front\A25\send.php:6
+Stack trace:
+#0 W:\web\2020\Front\A25\send.php(6): PDO->__construct('mysql:host=loca...', 'root', 'mysql')
+#1 {main}
+[13-Nov-2020 02:03:35 Europe/Moscow] PHP Warning:  A non-numeric value encountered in W:\web\2020\Front\A25\send.php on line 50
+[13-Nov-2020 02:03:35 Europe/Moscow] PHP Stack trace:
+[13-Nov-2020 02:03:35 Europe/Moscow] PHP   1. {main}() W:\web\2020\Front\A25\send.php:0
+[13-Nov-2020 02:03:35 Europe/Moscow] PHP Warning:  A non-numeric value encountered in W:\web\2020\Front\A25\send.php on line 50
+[13-Nov-2020 02:03:35 Europe/Moscow] PHP Stack trace:
+[13-Nov-2020 02:03:35 Europe/Moscow] PHP   1. {main}() W:\web\2020\Front\A25\send.php:0
+[13-Nov-2020 02:03:35 Europe/Moscow] PHP Notice:  Undefined variable: moment in W:\web\2020\Front\A25\send.php on line 50
+[13-Nov-2020 02:03:35 Europe/Moscow] PHP Stack trace:
+[13-Nov-2020 02:03:35 Europe/Moscow] PHP   1. {main}() W:\web\2020\Front\A25\send.php:0
+[13-Nov-2020 02:03:35 Europe/Moscow] PHP Warning:  A non-numeric value encountered in W:\web\2020\Front\A25\send.php on line 50
+[13-Nov-2020 02:03:35 Europe/Moscow] PHP Stack trace:
+[13-Nov-2020 02:03:35 Europe/Moscow] PHP   1. {main}() W:\web\2020\Front\A25\send.php:0
+[13-Nov-2020 02:03:39 Europe/Moscow] Запись в логPDOException: SQLSTATE[HY000] [2002] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение.
+ in W:\web\2020\Front\A25\send.php:6
+Stack trace:
+#0 W:\web\2020\Front\A25\send.php(6): PDO->__construct('mysql:host=loca...', 'root', 'mysql')
+#1 {main}
+[13-Nov-2020 02:03:39 Europe/Moscow] PHP Warning:  A non-numeric value encountered in W:\web\2020\Front\A25\send.php on line 50
+[13-Nov-2020 02:03:39 Europe/Moscow] PHP Stack trace:
+[13-Nov-2020 02:03:39 Europe/Moscow] PHP   1. {main}() W:\web\2020\Front\A25\send.php:0
+[13-Nov-2020 02:03:39 Europe/Moscow] PHP Warning:  A non-numeric value encountered in W:\web\2020\Front\A25\send.php on line 50
+[13-Nov-2020 02:03:39 Europe/Moscow] PHP Stack trace:
+[13-Nov-2020 02:03:39 Europe/Moscow] PHP   1. {main}() W:\web\2020\Front\A25\send.php:0
+[13-Nov-2020 02:03:39 Europe/Moscow] PHP Notice:  Undefined variable: moment in W:\web\2020\Front\A25\send.php on line 50
+[13-Nov-2020 02:03:39 Europe/Moscow] PHP Stack trace:
+[13-Nov-2020 02:03:39 Europe/Moscow] PHP   1. {main}() W:\web\2020\Front\A25\send.php:0
+[13-Nov-2020 02:03:39 Europe/Moscow] PHP Warning:  A non-numeric value encountered in W:\web\2020\Front\A25\send.php on line 50
+[13-Nov-2020 02:03:39 Europe/Moscow] PHP Stack trace:
+[13-Nov-2020 02:03:39 Europe/Moscow] PHP   1. {main}() W:\web\2020\Front\A25\send.php:0
+[13-Nov-2020 02:03:43 Europe/Moscow] Запись в логPDOException: SQLSTATE[HY000] [2002] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение.
+ in W:\web\2020\Front\A25\send.php:6
+Stack trace:
+#0 W:\web\2020\Front\A25\send.php(6): PDO->__construct('mysql:host=loca...', 'root', 'mysql')
+#1 {main}
+[13-Nov-2020 02:03:43 Europe/Moscow] PHP Warning:  A non-numeric value encountered in W:\web\2020\Front\A25\send.php on line 50
+[13-Nov-2020 02:03:43 Europe/Moscow] PHP Stack trace:
+[13-Nov-2020 02:03:43 Europe/Moscow] PHP   1. {main}() W:\web\2020\Front\A25\send.php:0
+[13-Nov-2020 02:03:43 Europe/Moscow] PHP Warning:  A non-numeric value encountered in W:\web\2020\Front\A25\send.php on line 50
+[13-Nov-2020 02:03:43 Europe/Moscow] PHP Stack trace:
+[13-Nov-2020 02:03:43 Europe/Moscow] PHP   1. {main}() W:\web\2020\Front\A25\send.php:0
+[13-Nov-2020 02:03:43 Europe/Moscow] PHP Notice:  Undefined variable: moment in W:\web\2020\Front\A25\send.php on line 50
+[13-Nov-2020 02:03:43 Europe/Moscow] PHP Stack trace:
+[13-Nov-2020 02:03:43 Europe/Moscow] PHP   1. {main}() W:\web\2020\Front\A25\send.php:0
+[13-Nov-2020 02:03:43 Europe/Moscow] PHP Warning:  A non-numeric value encountered in W:\web\2020\Front\A25\send.php on line 50
+[13-Nov-2020 02:03:43 Europe/Moscow] PHP Stack trace:
+[13-Nov-2020 02:03:43 Europe/Moscow] PHP   1. {main}() W:\web\2020\Front\A25\send.php:0
+[13-Nov-2020 02:03:47 Europe/Moscow] Запись в логPDOException: SQLSTATE[HY000] [2002] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение.
+ in W:\web\2020\Front\A25\send.php:6
+Stack trace:
+#0 W:\web\2020\Front\A25\send.php(6): PDO->__construct('mysql:host=loca...', 'root', 'mysql')
+#1 {main}
+[13-Nov-2020 02:03:47 Europe/Moscow] PHP Warning:  A non-numeric value encountered in W:\web\2020\Front\A25\send.php on line 50
+[13-Nov-2020 02:03:47 Europe/Moscow] PHP Stack trace:
+[13-Nov-2020 02:03:47 Europe/Moscow] PHP   1. {main}() W:\web\2020\Front\A25\send.php:0
+[13-Nov-2020 02:03:47 Europe/Moscow] PHP Warning:  A non-numeric value encountered in W:\web\2020\Front\A25\send.php on line 50
+[13-Nov-2020 02:03:47 Europe/Moscow] PHP Stack trace:
+[13-Nov-2020 02:03:47 Europe/Moscow] PHP   1. {main}() W:\web\2020\Front\A25\send.php:0
+[13-Nov-2020 02:03:47 Europe/Moscow] PHP Notice:  Undefined variable: moment in W:\web\2020\Front\A25\send.php on line 50
+[13-Nov-2020 02:03:47 Europe/Moscow] PHP Stack trace:
+[13-Nov-2020 02:03:47 Europe/Moscow] PHP   1. {main}() W:\web\2020\Front\A25\send.php:0
+[13-Nov-2020 02:03:47 Europe/Moscow] PHP Warning:  A non-numeric value encountered in W:\web\2020\Front\A25\send.php on line 50
+[13-Nov-2020 02:03:47 Europe/Moscow] PHP Stack trace:
+[13-Nov-2020 02:03:47 Europe/Moscow] PHP   1. {main}() W:\web\2020\Front\A25\send.php:0
+[13-Nov-2020 02:03:51 Europe/Moscow] Запись в логPDOException: SQLSTATE[HY000] [2002] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение.
+ in W:\web\2020\Front\A25\send.php:6
+Stack trace:
+#0 W:\web\2020\Front\A25\send.php(6): PDO->__construct('mysql:host=loca...', 'root', 'mysql')
+#1 {main}
+[13-Nov-2020 02:03:52 Europe/Moscow] PHP Warning:  A non-numeric value encountered in W:\web\2020\Front\A25\send.php on line 50
+[13-Nov-2020 02:03:52 Europe/Moscow] PHP Stack trace:
+[13-Nov-2020 02:03:52 Europe/Moscow] PHP   1. {main}() W:\web\2020\Front\A25\send.php:0
+[13-Nov-2020 02:03:52 Europe/Moscow] PHP Warning:  A non-numeric value encountered in W:\web\2020\Front\A25\send.php on line 50
+[13-Nov-2020 02:03:52 Europe/Moscow] PHP Stack trace:
+[13-Nov-2020 02:03:52 Europe/Moscow] PHP   1. {main}() W:\web\2020\Front\A25\send.php:0
+[13-Nov-2020 02:03:52 Europe/Moscow] PHP Notice:  Undefined variable: moment in W:\web\2020\Front\A25\send.php on line 50
+[13-Nov-2020 02:03:52 Europe/Moscow] PHP Stack trace:
+[13-Nov-2020 02:03:52 Europe/Moscow] PHP   1. {main}() W:\web\2020\Front\A25\send.php:0
+[13-Nov-2020 02:03:52 Europe/Moscow] PHP Warning:  A non-numeric value encountered in W:\web\2020\Front\A25\send.php on line 50
+[13-Nov-2020 02:03:52 Europe/Moscow] PHP Stack trace:
+[13-Nov-2020 02:03:52 Europe/Moscow] PHP   1. {main}() W:\web\2020\Front\A25\send.php:0
+[13-Nov-2020 02:37:05 Europe/Moscow] Запись в логPDOException: SQLSTATE[HY000] [2002] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение.
+ in W:\web\2020\Front\A25\send.php:6
+Stack trace:
+#0 W:\web\2020\Front\A25\send.php(6): PDO->__construct('mysql:host=loca...', 'root', 'mysql')
+#1 {main}
+[13-Nov-2020 02:37:05 Europe/Moscow] PHP Warning:  A non-numeric value encountered in W:\web\2020\Front\A25\send.php on line 50
+[13-Nov-2020 02:37:05 Europe/Moscow] PHP Stack trace:
+[13-Nov-2020 02:37:05 Europe/Moscow] PHP   1. {main}() W:\web\2020\Front\A25\send.php:0
+[13-Nov-2020 02:37:05 Europe/Moscow] PHP Warning:  A non-numeric value encountered in W:\web\2020\Front\A25\send.php on line 50
+[13-Nov-2020 02:37:05 Europe/Moscow] PHP Stack trace:
+[13-Nov-2020 02:37:05 Europe/Moscow] PHP   1. {main}() W:\web\2020\Front\A25\send.php:0
+[13-Nov-2020 02:37:05 Europe/Moscow] PHP Notice:  Undefined variable: moment in W:\web\2020\Front\A25\send.php on line 50
+[13-Nov-2020 02:37:05 Europe/Moscow] PHP Stack trace:
+[13-Nov-2020 02:37:05 Europe/Moscow] PHP   1. {main}() W:\web\2020\Front\A25\send.php:0
+[13-Nov-2020 02:37:05 Europe/Moscow] PHP Warning:  A non-numeric value encountered in W:\web\2020\Front\A25\send.php on line 50
+[13-Nov-2020 02:37:05 Europe/Moscow] PHP Stack trace:
+[13-Nov-2020 02:37:05 Europe/Moscow] PHP   1. {main}() W:\web\2020\Front\A25\send.php:0
+[13-Nov-2020 02:45:32 Europe/Moscow] Запись в логPDOException: SQLSTATE[HY000] [2002] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение.
+ in W:\web\2020\Front\A25\send.php:6
+Stack trace:
+#0 W:\web\2020\Front\A25\send.php(6): PDO->__construct('mysql:host=loca...', 'root', 'mysql')
+#1 {main}
+[13-Nov-2020 02:45:32 Europe/Moscow] PHP Warning:  A non-numeric value encountered in W:\web\2020\Front\A25\send.php on line 51
+[13-Nov-2020 02:45:32 Europe/Moscow] PHP Stack trace:
+[13-Nov-2020 02:45:32 Europe/Moscow] PHP   1. {main}() W:\web\2020\Front\A25\send.php:0
+[13-Nov-2020 02:45:32 Europe/Moscow] PHP Warning:  A non-numeric value encountered in W:\web\2020\Front\A25\send.php on line 51
+[13-Nov-2020 02:45:32 Europe/Moscow] PHP Stack trace:
+[13-Nov-2020 02:45:32 Europe/Moscow] PHP   1. {main}() W:\web\2020\Front\A25\send.php:0
+[13-Nov-2020 02:45:32 Europe/Moscow] PHP Notice:  Undefined variable: moment in W:\web\2020\Front\A25\send.php on line 51
+[13-Nov-2020 02:45:32 Europe/Moscow] PHP Stack trace:
+[13-Nov-2020 02:45:32 Europe/Moscow] PHP   1. {main}() W:\web\2020\Front\A25\send.php:0
+[13-Nov-2020 02:45:32 Europe/Moscow] PHP Warning:  A non-numeric value encountered in W:\web\2020\Front\A25\send.php on line 51
+[13-Nov-2020 02:45:32 Europe/Moscow] PHP Stack trace:
+[13-Nov-2020 02:45:32 Europe/Moscow] PHP   1. {main}() W:\web\2020\Front\A25\send.php:0
+[13-Nov-2020 02:46:53 Europe/Moscow] Запись в логPDOException: SQLSTATE[HY000] [2002] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение.
+ in W:\web\2020\Front\A25\send.php:6
+Stack trace:
+#0 W:\web\2020\Front\A25\send.php(6): PDO->__construct('mysql:host=loca...', 'root', 'mysql')
+#1 {main}
+[13-Nov-2020 03:37:02 Europe/Moscow] PHP Notice:  Object of class PDOException could not be converted to number in W:\web\2020\Front\A25\send.php on line 53
+[13-Nov-2020 03:37:02 Europe/Moscow] PHP Stack trace:
+[13-Nov-2020 03:37:02 Europe/Moscow] PHP   1. {main}() W:\web\2020\Front\A25\send.php:0
+[13-Nov-2020 03:37:02 Europe/Moscow] PHP Warning:  A non-numeric value encountered in W:\web\2020\Front\A25\send.php on line 53
+[13-Nov-2020 03:37:02 Europe/Moscow] PHP Stack trace:
+[13-Nov-2020 03:37:02 Europe/Moscow] PHP   1. {main}() W:\web\2020\Front\A25\send.php:0
+[13-Nov-2020 03:37:02 Europe/Moscow] PHP Notice:  Undefined variable: data in W:\web\2020\Front\A25\send.php on line 53
+[13-Nov-2020 03:37:02 Europe/Moscow] PHP Stack trace:
+[13-Nov-2020 03:37:02 Europe/Moscow] PHP   1. {main}() W:\web\2020\Front\A25\send.php:0
+[13-Nov-2020 03:37:02 Europe/Moscow] PHP Warning:  A non-numeric value encountered in W:\web\2020\Front\A25\send.php on line 53
+[13-Nov-2020 03:37:02 Europe/Moscow] PHP Stack trace:
+[13-Nov-2020 03:37:02 Europe/Moscow] PHP   1. {main}() W:\web\2020\Front\A25\send.php:0
+[13-Nov-2020 03:37:02 Europe/Moscow] Запись в логPDOException: SQLSTATE[HY000] [2002] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение.
+ in W:\web\2020\Front\A25\send.php:6
+Stack trace:
+#0 W:\web\2020\Front\A25\send.php(6): PDO->__construct('mysql:host=loca...', 'root', 'mysql')
+#1 {main}
+[13-Nov-2020 03:38:17 Europe/Moscow] PHP Notice:  Object of class PDOException could not be converted to number in W:\web\2020\Front\A25\send.php on line 53
+[13-Nov-2020 03:38:17 Europe/Moscow] PHP Stack trace:
+[13-Nov-2020 03:38:17 Europe/Moscow] PHP   1. {main}() W:\web\2020\Front\A25\send.php:0
+[13-Nov-2020 03:38:17 Europe/Moscow] PHP Warning:  A non-numeric value encountered in W:\web\2020\Front\A25\send.php on line 53
+[13-Nov-2020 03:38:17 Europe/Moscow] PHP Stack trace:
+[13-Nov-2020 03:38:17 Europe/Moscow] PHP   1. {main}() W:\web\2020\Front\A25\send.php:0
+[13-Nov-2020 03:38:17 Europe/Moscow] PHP Notice:  Undefined variable: data in W:\web\2020\Front\A25\send.php on line 53
+[13-Nov-2020 03:38:17 Europe/Moscow] PHP Stack trace:
+[13-Nov-2020 03:38:17 Europe/Moscow] PHP   1. {main}() W:\web\2020\Front\A25\send.php:0
+[13-Nov-2020 03:38:17 Europe/Moscow] PHP Warning:  A non-numeric value encountered in W:\web\2020\Front\A25\send.php on line 53
+[13-Nov-2020 03:38:17 Europe/Moscow] PHP Stack trace:
+[13-Nov-2020 03:38:17 Europe/Moscow] PHP   1. {main}() W:\web\2020\Front\A25\send.php:0
+[13-Nov-2020 03:38:17 Europe/Moscow] Запись в лог1
+[13-Nov-2020 03:38:57 Europe/Moscow] Запись в логPDOException: SQLSTATE[HY000] [2002] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение.
+ in W:\web\2020\Front\A25\send.php:6
+Stack trace:
+#0 W:\web\2020\Front\A25\send.php(6): PDO->__construct('mysql:host=loca...', 'root', 'mysql')
+#1 {main}
+[13-Nov-2020 03:40:49 Europe/Moscow] Запись в логPDOException: SQLSTATE[HY000] [2002] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение.
+ in W:\web\2020\Front\A25\send.php:6
+Stack trace:
+#0 W:\web\2020\Front\A25\send.php(6): PDO->__construct('mysql:host=loca...', 'root', 'mysql')
+#1 {main}
+[13-Nov-2020 03:40:49 Europe/Moscow] PHP Notice:  Undefined variable: data in W:\web\2020\Front\A25\send.php on line 55
+[13-Nov-2020 03:40:49 Europe/Moscow] PHP Stack trace:
+[13-Nov-2020 03:40:49 Europe/Moscow] PHP   1. {main}() W:\web\2020\Front\A25\send.php:0
+[13-Nov-2020 03:40:49 Europe/Moscow] PHP Notice:  Undefined variable: moment in W:\web\2020\Front\A25\send.php on line 55
+[13-Nov-2020 03:40:49 Europe/Moscow] PHP Stack trace:
+[13-Nov-2020 03:40:49 Europe/Moscow] PHP   1. {main}() W:\web\2020\Front\A25\send.php:0
+[13-Nov-2020 03:40:49 Europe/Moscow] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to myLog() must be of the type array, null given, called in W:\web\2020\Front\A25\send.php on line 55 and defined in W:\web\2020\Front\A25\functions.php:7
+Stack trace:
+#0 W:\web\2020\Front\A25\send.php(55): myLog(NULL, NULL)
+#1 {main}
+  thrown in W:\web\2020\Front\A25\functions.php on line 7
+[13-Nov-2020 03:42:05 Europe/Moscow] Запись в логPDOException: SQLSTATE[HY000] [2002] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение.
+ in W:\web\2020\Front\A25\send.php:6
+Stack trace:
+#0 W:\web\2020\Front\A25\send.php(6): PDO->__construct('mysql:host=loca...', 'root', 'mysql')
+#1 {main}
+[13-Nov-2020 03:42:05 Europe/Moscow] PHP Notice:  Undefined variable: data in W:\web\2020\Front\A25\send.php on line 59
+[13-Nov-2020 03:42:05 Europe/Moscow] PHP Stack trace:
+[13-Nov-2020 03:42:05 Europe/Moscow] PHP   1. {main}() W:\web\2020\Front\A25\send.php:0
+[13-Nov-2020 03:42:05 Europe/Moscow] PHP Notice:  Undefined variable: moment in W:\web\2020\Front\A25\send.php on line 59
+[13-Nov-2020 03:42:05 Europe/Moscow] PHP Stack trace:
+[13-Nov-2020 03:42:05 Europe/Moscow] PHP   1. {main}() W:\web\2020\Front\A25\send.php:0
+[13-Nov-2020 03:42:05 Europe/Moscow] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to myLog() must be of the type array, null given, called in W:\web\2020\Front\A25\send.php on line 59 and defined in W:\web\2020\Front\A25\functions.php:7
+Stack trace:
+#0 W:\web\2020\Front\A25\send.php(59): myLog(NULL, NULL)
+#1 {main}
+  thrown in W:\web\2020\Front\A25\functions.php on line 7
+[13-Nov-2020 03:43:38 Europe/Moscow] Запись в логPDOException: SQLSTATE[HY000] [2002] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение.
+ in W:\web\2020\Front\A25\send.php:12
+Stack trace:
+#0 W:\web\2020\Front\A25\send.php(12): PDO->__construct('mysql:host=loca...', 'root', 'mysql')
+#1 {main}
+[13-Nov-2020 03:44:36 Europe/Moscow] Запись в логPDOException: SQLSTATE[HY000] [2002] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение.
+ in W:\web\2020\Front\A25\send.php:16
+Stack trace:
+#0 W:\web\2020\Front\A25\send.php(16): PDO->__construct('mysql:host=loca...', 'root', 'mysql')
+#1 {main}
+[13-Nov-2020 03:44:50 Europe/Moscow] Запись в логPDOException: SQLSTATE[HY000] [2002] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение.
+ in W:\web\2020\Front\A25\send.php:16
+Stack trace:
+#0 W:\web\2020\Front\A25\send.php(16): PDO->__construct('mysql:host=loca...', 'root', 'mysql')
+#1 {main}
+[13-Nov-2020 03:45:04 Europe/Moscow] Запись в логPDOException: SQLSTATE[HY000] [2002] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение.
+ in W:\web\2020\Front\A25\send.php:16
+Stack trace:
+#0 W:\web\2020\Front\A25\send.php(16): PDO->__construct('mysql:host=loca...', 'root', 'mysql')
+#1 {main}
+[13-Nov-2020 03:45:18 Europe/Moscow] Запись в логPDOException: SQLSTATE[HY000] [2002] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение.
+ in W:\web\2020\Front\A25\send.php:16
+Stack trace:
+#0 W:\web\2020\Front\A25\send.php(16): PDO->__construct('mysql:host=loca...', 'root', 'mysql')
+#1 {main}
+[13-Nov-2020 03:45:32 Europe/Moscow] Запись в логPDOException: SQLSTATE[HY000] [2002] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение.
+ in W:\web\2020\Front\A25\send.php:16
+Stack trace:
+#0 W:\web\2020\Front\A25\send.php(16): PDO->__construct('mysql:host=loca...', 'root', 'mysql')
+#1 {main}
+[13-Nov-2020 03:45:46 Europe/Moscow] Запись в логPDOException: SQLSTATE[HY000] [2002] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение.
+ in W:\web\2020\Front\A25\send.php:16
+Stack trace:
+#0 W:\web\2020\Front\A25\send.php(16): PDO->__construct('mysql:host=loca...', 'root', 'mysql')
+#1 {main}
+[13-Nov-2020 03:46:00 Europe/Moscow] Запись в логPDOException: SQLSTATE[HY000] [2002] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение.
+ in W:\web\2020\Front\A25\send.php:16
+Stack trace:
+#0 W:\web\2020\Front\A25\send.php(16): PDO->__construct('mysql:host=loca...', 'root', 'mysql')
+#1 {main}
+[13-Nov-2020 03:46:14 Europe/Moscow] Запись в логPDOException: SQLSTATE[HY000] [2002] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение.
+ in W:\web\2020\Front\A25\send.php:16
+Stack trace:
+#0 W:\web\2020\Front\A25\send.php(16): PDO->__construct('mysql:host=loca...', 'root', 'mysql')
+#1 {main}
+[13-Nov-2020 03:46:28 Europe/Moscow] Запись в логPDOException: SQLSTATE[HY000] [2002] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение.
+ in W:\web\2020\Front\A25\send.php:16
+Stack trace:
+#0 W:\web\2020\Front\A25\send.php(16): PDO->__construct('mysql:host=loca...', 'root', 'mysql')
+#1 {main}
+[13-Nov-2020 03:46:42 Europe/Moscow] Запись в логPDOException: SQLSTATE[HY000] [2002] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение.
+ in W:\web\2020\Front\A25\send.php:16
+Stack trace:
+#0 W:\web\2020\Front\A25\send.php(16): PDO->__construct('mysql:host=loca...', 'root', 'mysql')
+#1 {main}
+[13-Nov-2020 03:46:56 Europe/Moscow] Запись в логPDOException: SQLSTATE[HY000] [2002] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение.
+ in W:\web\2020\Front\A25\send.php:16
+Stack trace:
+#0 W:\web\2020\Front\A25\send.php(16): PDO->__construct('mysql:host=loca...', 'root', 'mysql')
+#1 {main}
+[13-Nov-2020 03:47:10 Europe/Moscow] Запись в логPDOException: SQLSTATE[HY000] [2002] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение.
+ in W:\web\2020\Front\A25\send.php:16
+Stack trace:
+#0 W:\web\2020\Front\A25\send.php(16): PDO->__construct('mysql:host=loca...', 'root', 'mysql')
+#1 {main}
+[13-Nov-2020 03:47:24 Europe/Moscow] Запись в логPDOException: SQLSTATE[HY000] [2002] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение.
+ in W:\web\2020\Front\A25\send.php:16
+Stack trace:
+#0 W:\web\2020\Front\A25\send.php(16): PDO->__construct('mysql:host=loca...', 'root', 'mysql')
+#1 {main}
+[13-Nov-2020 03:47:38 Europe/Moscow] Запись в логPDOException: SQLSTATE[HY000] [2002] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение.
+ in W:\web\2020\Front\A25\send.php:16
+Stack trace:
+#0 W:\web\2020\Front\A25\send.php(16): PDO->__construct('mysql:host=loca...', 'root', 'mysql')
+#1 {main}
+[13-Nov-2020 03:47:53 Europe/Moscow] Запись в логPDOException: SQLSTATE[HY000] [2002] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение.
+ in W:\web\2020\Front\A25\send.php:16
+Stack trace:
+#0 W:\web\2020\Front\A25\send.php(16): PDO->__construct('mysql:host=loca...', 'root', 'mysql')
+#1 {main}
+[13-Nov-2020 03:48:07 Europe/Moscow] Запись в логPDOException: SQLSTATE[HY000] [2002] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение.
+ in W:\web\2020\Front\A25\send.php:16
+Stack trace:
+#0 W:\web\2020\Front\A25\send.php(16): PDO->__construct('mysql:host=loca...', 'root', 'mysql')
+#1 {main}
+[13-Nov-2020 03:48:21 Europe/Moscow] Запись в логPDOException: SQLSTATE[HY000] [2002] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение.
+ in W:\web\2020\Front\A25\send.php:16
+Stack trace:
+#0 W:\web\2020\Front\A25\send.php(16): PDO->__construct('mysql:host=loca...', 'root', 'mysql')
+#1 {main}
+[13-Nov-2020 03:48:35 Europe/Moscow] Запись в логPDOException: SQLSTATE[HY000] [2002] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение.
+ in W:\web\2020\Front\A25\send.php:16
+Stack trace:
+#0 W:\web\2020\Front\A25\send.php(16): PDO->__construct('mysql:host=loca...', 'root', 'mysql')
+#1 {main}
+[13-Nov-2020 03:48:49 Europe/Moscow] Запись в логPDOException: SQLSTATE[HY000] [2002] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение.
+ in W:\web\2020\Front\A25\send.php:16
+Stack trace:
+#0 W:\web\2020\Front\A25\send.php(16): PDO->__construct('mysql:host=loca...', 'root', 'mysql')
+#1 {main}
+[13-Nov-2020 03:49:03 Europe/Moscow] Запись в логPDOException: SQLSTATE[HY000] [2002] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение.
+ in W:\web\2020\Front\A25\send.php:16
+Stack trace:
+#0 W:\web\2020\Front\A25\send.php(16): PDO->__construct('mysql:host=loca...', 'root', 'mysql')
+#1 {main}
+[13-Nov-2020 03:49:17 Europe/Moscow] Запись в логPDOException: SQLSTATE[HY000] [2002] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение.
+ in W:\web\2020\Front\A25\send.php:16
+Stack trace:
+#0 W:\web\2020\Front\A25\send.php(16): PDO->__construct('mysql:host=loca...', 'root', 'mysql')
+#1 {main}
+[13-Nov-2020 03:49:31 Europe/Moscow] Запись в логPDOException: SQLSTATE[HY000] [2002] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение.
+ in W:\web\2020\Front\A25\send.php:16
+Stack trace:
+#0 W:\web\2020\Front\A25\send.php(16): PDO->__construct('mysql:host=loca...', 'root', 'mysql')
+#1 {main}
+[13-Nov-2020 03:49:46 Europe/Moscow] Запись в логPDOException: SQLSTATE[HY000] [2002] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение.
+ in W:\web\2020\Front\A25\send.php:16
+Stack trace:
+#0 W:\web\2020\Front\A25\send.php(16): PDO->__construct('mysql:host=loca...', 'root', 'mysql')
+#1 {main}
+[13-Nov-2020 03:49:46 Europe/Moscow] PHP Notice:  Array to string conversion in W:\web\2020\Front\A25\send.php on line 68
+[13-Nov-2020 03:49:46 Europe/Moscow] PHP Stack trace:
+[13-Nov-2020 03:49:46 Europe/Moscow] PHP   1. {main}() W:\web\2020\Front\A25\send.php:0
+[13-Nov-2020 03:49:46 Europe/Moscow] Попытка записи данныхArray
+[13-Nov-2020 03:50:22 Europe/Moscow] Запись в логPDOException: SQLSTATE[HY000] [2002] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение.
+ in W:\web\2020\Front\A25\send.php:16
+Stack trace:
+#0 W:\web\2020\Front\A25\send.php(16): PDO->__construct('mysql:host=loca...', 'root', 'mysql')
+#1 {main}
+[13-Nov-2020 03:50:22 Europe/Moscow] Попытка записи данныхArray
+(
+    [name] => gg
+    [tel] => g
+    [email] => g
+)
+
+[13-Nov-2020 03:50:36 Europe/Moscow] Запись в логPDOException: SQLSTATE[HY000] [2002] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение.
+ in W:\web\2020\Front\A25\send.php:16
+Stack trace:
+#0 W:\web\2020\Front\A25\send.php(16): PDO->__construct('mysql:host=loca...', 'root', 'mysql')
+#1 {main}
+[13-Nov-2020 03:50:36 Europe/Moscow] Попытка записи данныхArray
+(
+    [name] => gg
+    [tel] => g
+    [email] => g
+)
+
+[13-Nov-2020 03:50:50 Europe/Moscow] Запись в логPDOException: SQLSTATE[HY000] [2002] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение.
+ in W:\web\2020\Front\A25\send.php:16
+Stack trace:
+#0 W:\web\2020\Front\A25\send.php(16): PDO->__construct('mysql:host=loca...', 'root', 'mysql')
+#1 {main}
+[13-Nov-2020 03:50:50 Europe/Moscow] Попытка записи данныхArray
+(
+    [name] => gg
+    [tel] => g
+    [email] => g
+)
+
+[13-Nov-2020 03:51:04 Europe/Moscow] Запись в логPDOException: SQLSTATE[HY000] [2002] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение.
+ in W:\web\2020\Front\A25\send.php:16
+Stack trace:
+#0 W:\web\2020\Front\A25\send.php(16): PDO->__construct('mysql:host=loca...', 'root', 'mysql')
+#1 {main}
+[13-Nov-2020 03:51:04 Europe/Moscow] Попытка записи данныхArray
+(
+    [name] => gg
+    [tel] => g
+    [email] => g
+)
+
+[13-Nov-2020 04:11:38 Europe/Moscow] Запись в логPDOException: SQLSTATE[HY000] [2002] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение.
+ in W:\web\2020\Front\A25\send.php:16
+Stack trace:
+#0 W:\web\2020\Front\A25\send.php(16): PDO->__construct('mysql:host=loca...', 'root', 'mysql')
+#1 {main}
+[13-Nov-2020 04:11:38 Europe/Moscow] Попытка записи данныхArray
+(
+    [name] => k
+    [tel] => k
+    [email] => k
+)
+
+[13-Nov-2020 04:11:52 Europe/Moscow] Запись в логPDOException: SQLSTATE[HY000] [2002] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение.
+ in W:\web\2020\Front\A25\send.php:16
+Stack trace:
+#0 W:\web\2020\Front\A25\send.php(16): PDO->__construct('mysql:host=loca...', 'root', 'mysql')
+#1 {main}
+[13-Nov-2020 04:11:52 Europe/Moscow] Попытка записи данныхArray
+(
+    [name] => k
+    [tel] => k
+    [email] => k
+)
+
+[16-Nov-2020 02:05:13 Europe/Moscow] Запись в логPDOException: SQLSTATE[HY000] [2002] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение.
+ in W:\web\2020\Front\A25\send.php:16
+Stack trace:
+#0 W:\web\2020\Front\A25\send.php(16): PDO->__construct('mysql:host=loca...', 'root', 'mysql')
+#1 {main}
+[16-Nov-2020 02:05:13 Europe/Moscow] Попытка записи данныхArray
+(
+    [name] => hj
+    [tel] => j
+    [email] => h@j.u
+)
+

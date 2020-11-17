@@ -1,0 +1,19 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.header{
+    background-color: black;
+}
+.header__logo{
+    height: 50px;
+    max-width: 145px;
+    padding: 4px;
+}
+.footer{
+    background-color: black;
+    color: white;
+}
+.alert{
+    text-align: center;
+}
